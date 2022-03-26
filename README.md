@@ -6,7 +6,7 @@ User can create multiple cards and browse through them
 ### App Walk-though
 
 
-<img src="https://imgur.com/a/jirVb1E.gif" width=200><br>
+<img src="https://i.imgur.com/7LCz38S.gif" width=200><br>
 
 
 

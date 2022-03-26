@@ -51,7 +51,7 @@ This Application allows a user to see a question and click on it to give an answ
 
  ### App Walk-though
 
-<img src="https://i.imgur.com/JgcEl3W.gif" width=200><br>
+<img src="https://i.imgur.com/7LCz38S.gif" width=200><br>
 
 
  ## Required

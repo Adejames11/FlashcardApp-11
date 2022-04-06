@@ -2,11 +2,12 @@
 
 ### App Description
 User can create multiple cards and browse through them
+User can create a card and still see their created card when the app is relaunched.
 
 ### App Walk-though
 
 
-<img src="https://i.imgur.com/7LCz38S.gif" width=200><br>
+<img src="https://i.imgur.com/1xZ86eG.gif" width=200><br>
 
 
 

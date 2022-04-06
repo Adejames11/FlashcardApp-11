@@ -1,8 +1,9 @@
 ## Lab 3
 
 ### App Description
-User can create multiple cards and browse through them
-User can create a card and still see their created card when the app is relaunched.
+-User can create multiple cards and browse through them
+
+-User can create a card and still see their created card when the app is relaunched.
 
 ### App Walk-though
 

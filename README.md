@@ -16,11 +16,7 @@
 - [x] User sees a reveal animation when the flashcard is tapped and the answer is shown
 - [x] User sees flashcards animating in / out when the 'next' button is tapped
 
-## Optional
-- [ ] Extra styling is added!
-- [ ] User sees a countdown timer for each question
-- [ ] User sees a 'card flip' animation when the card is tapped
-- [ ] User sees a celebration animation with confetti when they answer a question correctly
+
 
 ## Lab 3
 
@@ -40,11 +36,7 @@
 - [x] User can create a card and still see their created card when the app is relaunched.
 - [x] User can create muliple cards and browse through all created cards
 
-## Optional
-- [ ] User can delete a card and no longer see it in their deck anymore
-- [ ] Flashcards are shown in random order instead of the order they were created in
-- [ ] User can edit a card and see the edit saved when they browse through their deck of cards
-- [ ] User can create flashcards with multiple answers and be able to browse through cards with multiple choice answers shown
+
 ## Lab 2
 
 ### App Description
@@ -63,10 +55,7 @@ This application allows a user to create and save their information (questions a
 
 ## Optional
 - [x] User can edit a card
-- [ ] An error message is shown if the user doesn't enter both a Question and an Answer
-- [ ] A notification is shown if the card was created successfully
-- [ ] User can also enter multiple choice answers when creating a card
-- [ ] App is further styled and customized!
+
 
  ## Flash-Card-App
 
@@ -86,9 +75,4 @@ This Application allows a user to see a question and click on it to give an answ
 - [x] Add a view for the back side of the flashcard to display the answer
 - [x] Build in logic to show the answer side when the card is tapped
 - [x] Push code to GitHu
- ## Optional
-- [ ] toggle the flashcard between the question side and the answer side
-- [ ] Style the question and answer side of the card to better distinguish between the two sides
-- [ ] Add selectable multiple choice answers beneath the card
-   - [ ] Change the background color of the multiple choice answers when clicked to indicate whether the question waanswered correctly
-- [ ] Further customize and style the card
+
